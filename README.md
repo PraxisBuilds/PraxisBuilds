@@ -6,7 +6,7 @@ My background is in land surveying and field operations. I’m particularly inte
 
 ## What I’m building
 
-- **KeyTrail** — A privacy-focused desktop application for understanding typing habits and progress. Version 0.1.0 shipped.
+- **KeyTrail** — A privacy-focused desktop application for understanding typing habits and progress. Windows and Linux builds are in private testing ahead of the first public release.
 - **Steady** — An accessible Android shopping companion designed around focus, simplicity, and user ownership.
 - **Atlas** — A Linux-first survey, CAD, and GIS engine exploring geometry, coordinate workflows, and field-to-office tools.
 
